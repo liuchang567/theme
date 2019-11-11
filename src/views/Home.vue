@@ -6,7 +6,9 @@
         {{item}}
         </div>
     </div>
-    <div><a class="btn">按钮</a></div>
+    <div class="main">
+      <a class="btn">按钮</a>
+    </div>
   </div>
 </template>
 
